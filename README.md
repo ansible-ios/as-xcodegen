@@ -1,3 +1,12 @@
+# as-xcodegen
+
+Ansible Messenger — генератор проектов Xcode.
+
+> [!NOTE]
+> **Происхождение кода.** Форк [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen), который сопровождает проект Ansible Messenger. Сведения об авторах и лицензиях приведены в исходной документации.
+
+## Документация исходного проекта
+
 <p align="center">
 <a href="https://github.com/yonaskolb/XcodeGen">
 <img src="Assets/Logo_animated.gif" alt="XcodeGen" />
